@@ -478,7 +478,7 @@
 "text:missing_reason","Denial reason not given","סיבת דחייה לא ניתנה"
 "text:citation_warning","WARNING ISSUED - NO PENALTY","הזהרה הופקה – אין קנס"
 "text:citation_lastwarning","LAST WARNING - NO PENALTY","הזהרה אחרונה – אין קנס"
-"text:citation_penalty","PENALTY ASSESSED - $0 CREDITS","קנס הוערך – 0$ קרידיטים"
+"text:citation_penalty","PENALTY ASSESSED - $0 CREDITS","קנס הוערך – $0 קרידיטים"
 "text:border_next","NEXT!","הבא!"
 "text:border_bomber","FOR KOLECHIA!","לחיי קוליטשה!"
 "text:border_comeback","COME BACK AT 6AM TOMORROW","חיזרו ב6 מחר בבוקר"
